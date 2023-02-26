@@ -1,0 +1,20 @@
+
+.home-welcome p {
+    line-height: 1.6em;
+    font-weight: 300;
+    font-size: 18px;
+    margin-bottom: 20px;
+    letter-spacing: .02em;
+    text-transform: none;
+    text-align: left;
+}
+
+p a {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: $global-link-underline-color;
+
+    [theme=dark] & {
+        border-bottom-color: $global-link-underline-color-dark;
+    }
+}
