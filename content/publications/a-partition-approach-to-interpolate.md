@@ -16,7 +16,7 @@ bibtex: /citations/ramos_sibgrapi_2019.bib
 
 *Alexandre Ribeiro Cajazeira Ramos, Emanuele Santos, Joaquim Bento Cavalcante Neto. In Proceedings of 2019 32nd SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), Rio de Janeiro, pp. 139-146.*
 
-{{< image src="/images/thumbs/partition-approach.png" width="90%" >}}
+{{< image src="/images/thumbs/partition-approach.png" width="90%" height="90%">}}
 
 ## Abstract
 

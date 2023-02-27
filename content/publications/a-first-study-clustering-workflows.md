@@ -15,7 +15,7 @@ bibtex: /citations/cluster_ipaw2008.bib
 
 *E. Santos, L. Lins, J. P. Ahrens, J. Freire, and C. T. Silva. A first study on clustering collections of workflow graphs. In J. Freire, D. Koop, and L. Moreau, editors, Provenance and Annotation of Data and Processes: Second International Provenance and Annotation Workshop, IPAW 2008, Salt Lake City, UT, USA, June 17-18, 2008. Revised Selected Papers, pages 160–173. Springer Berlin Heidelberg, Berlin, Heidelberg, 2008.*
 
-{{< image src="/images/thumbs/cluster_ipaw2008.png" width="80%" >}}
+{{< image src="/images/thumbs/cluster_ipaw2008.png" width="80%" height="80%" >}}
 
 ## Abstract
 
