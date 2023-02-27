@@ -3,25 +3,22 @@
 {{- end -}}
 
 {{- define "content" -}}
-    <div class="page archive">
+    <div class="page home" data-home="blog">
         {{- /* Title */ -}}
-        <h2 class="single-title animate__animated animate__pulse animate__faster">
-            {{- .Params.Title | default (T .Section) | default .Section | dict "Some" | T "allSome" -}}
+        <h2 class="blog-title">
+            {{- .Params.Title  -}}
         </h2>
 
         {{- /* Paginate */ -}}
         {{- if .Pages -}}
-            {{- $pages := .Pages.GroupByDate "2006" -}}
+            {{- $pages := .Pages -}}
             {{- with .Site.Params.section.paginate | default .Site.Params.paginate -}}
                 {{- $pages = $.Paginate $pages . -}}
             {{- else -}}
                 {{- $pages = .Paginate $pages -}}
             {{- end -}}
-            {{- range $pages.PageGroups -}}
-                <h3 class="group-title">{{ .Key }}</h3>
-                {{- range .Pages -}}
+            {{- range $pages.Pages -}}
                 {{- .Render "summary" -}}
-                {{- end -}}
             {{- end -}}
             {{- partial "paginator.html" . -}}
         {{- end -}}

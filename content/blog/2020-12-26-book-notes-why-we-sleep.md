@@ -3,10 +3,8 @@ title: "Book Notes: Why We Sleep"
 date: 2020-12-27
 featuredImage: /images/blog/whywesleepcover.jpg
 featuredPreviewImage: /images/blog/whywesleepcover.jpg
-tag:
-- book notes
+tags: ["book notes"]
 star: false
-category: blog
 author: Emanuele
 description: My notes on Why We Sleep, by Matthew Walker, PhD.
 summary: My notes on Why We Sleep, by Matthew Walker, PhD.
@@ -17,10 +15,10 @@ summary: My notes on Why We Sleep, by Matthew Walker, PhD.
 {{< /admonition >}}
 
 
-# Summary
+## Summary
 The book explains what is sleep, what it isn't, how human beings should sleep and how sleep changes across your life span from a scientific point of view. It also details the good, the bad, and the deathly of sleep and sleep loss. It explores all the benefits of sleep for brain and for body health and wellness. It also talks about the science about dreams. It explains numerous sleep disorders, including insomnia. It provides useful tips for having better sleep.
 
-# Notes
+## Notes
 
 I always knew the importance of a good night of sleep in my daily life, even though I didn't know in what specific ways sleep affected me. 
 
