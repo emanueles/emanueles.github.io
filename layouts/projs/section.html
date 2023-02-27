@@ -1,0 +1,26 @@
+{{- define "title" }}
+    {{- .Params.Title | default (T .Section) | default .Section | dict "Some" | T "allSome" }} - {{ .Site.Title -}}
+{{- end -}}
+
+{{- define "content" -}}
+    <div class="page home" data-home="blog">
+        {{- /* Title */ -}}
+        <h2 class="blog-title">
+            {{- .Params.Title  -}}
+        </h2>
+
+        {{- /* Paginate */ -}}
+        {{- if .Pages -}}
+            {{- $pages := .Pages -}}
+            {{- with .Site.Params.section.paginate | default .Site.Params.paginate -}}
+                {{- $pages = $.Paginate $pages . -}}
+            {{- else -}}
+                {{- $pages = .Paginate $pages -}}
+            {{- end -}}
+            {{- range $pages.Pages -}}
+                {{- .Render "summary" -}}
+            {{- end -}}
+            {{- partial "paginator.html" . -}}
+        {{- end -}}
+    </div>
+{{- end -}}
