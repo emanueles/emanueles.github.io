@@ -1,6 +1,5 @@
 ---
 title: "A Visual Analytics Approach to Facilitate Crime Hotspot Analysis"
-layout: page
 date: 2020-07-18
 year: 2020
 month: 07

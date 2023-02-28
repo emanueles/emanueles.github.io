@@ -9,7 +9,7 @@ authors: E. Santos, L. Lins, J. Ahrens, J. Freire, C. Silva
 in: "In Proceedings of Second International Provenance and Annotation Workshop (IPAW ’08), vol. 5272/2008, pp. 160–173"
 file: http://vgc.poly.edu/~juliana/pub/cluster-ipaw2008.pdf
 featuredImage:  /images/thumbs/cluster_ipaw2008.png
-featuredImagePreview: /images/thumbs/cluster_ipaw2008.png
+featuredPreviewImage: /images/thumbs/cluster_ipaw2008.png
 bibtex: /citations/cluster_ipaw2008.bib
 ---
 

@@ -1,16 +1,14 @@
 ---
 title: "Collaborative Monitoring and Analysis for Simulation Scientists"
-layout: page
 date: 2010-05-10
 year: 2010
 month: 05
 description:
 tags: []
 pub: true
-headerImage: true
 authors: Roselyne Tchoua, Scott Klasky, Norbert Podhorszki, Brad Grimm, Ayla Khan, Emanuele Santos, Claudio Silva, Pierre Mouallem and Mladen Vouk
 in: " In Proceedings of The 2010 International Symposium on Collaborative Technologies and Systems (CTS 2010), pp. 235-244"
-file: /assets/papers/CTS2010-paper-reviewed.pdf
+file: /papers/CTS2010-paper-reviewed.pdf
 featuredImage: /images/thumbs/cts2010.png
 featuredPreviewImage: /images/thumbs/cts2010.png
 bibtex:  /citations/cts2010.bib

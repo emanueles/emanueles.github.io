@@ -12,7 +12,6 @@ featuredPreviewImage: /images/crowdlabs.png
 ---
 
 # crowdLabs
-<img src="/assets/images/crowdlabs.png" style="width: 100%;border:1px solid grey"/>
 
 [crowdLabs](http://www.crowdlabs.org) is a social visualization repository for the scientific workflow management system [VisTrails](http://www.vistrails.org).
 
