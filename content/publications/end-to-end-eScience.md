@@ -6,7 +6,6 @@ month: 12
 description:
 tags: []
 pub: true
-headerImage: true
 authors: B. Howe, P. Lawson, R. Bellinger, E. Anderson, E. Santos, J. Freire, C. Scheidegger, A. Baptista, C. Silva
 in: In Proceedings of 4th IEEE International Conference on e-Science, pp. 127-134
 file: http://vgc.poly.edu/~emanuele/howe_endtoend.pdf

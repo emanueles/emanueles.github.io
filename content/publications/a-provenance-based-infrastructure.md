@@ -6,7 +6,6 @@ month: 04
 description:
 tags: []
 pub: true
-headerImage: true
 authors: D. Koop, E. Santos, P. Mates, H. Vo, P. Bonnet, B. Bauer, B. Surer, M. Troyer, D. Williams, J. Tohline, J. Freire and C. Silva
 in: "In Proceedings of the International Conference on Computational Science, ICCS 2011, 2011. v. 4. p. 648-657"
 file: http://www.sciencedirect.com/science/article/pii/S1877050911001268
@@ -14,7 +13,6 @@ featuredImage: /images/thumbs/executable_paper.png
 featuredPreviewImage: /images/thumbs/executable_paper.png
 bibtex:  /citations/executable_paper.bib
 ---
-
 
 *D. Koop, E. Santos, P. Mates, H. T. Vo, P. Bonnet, B. Bauer, B. Surer, M. Troyer, D. N. Williams, J. E. Tohline, J. Freire, and C. T. Silva. A provenance-based infrastructure to support the life cycle of executable papers. Procedia Computer Science, 4:648 – 657, 2011.*
 
