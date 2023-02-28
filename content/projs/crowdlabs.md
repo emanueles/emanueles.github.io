@@ -6,7 +6,7 @@ description:
 categories: ["past project"]
 old: true
 tagline: a social visualization repository for VisTrails
-logo: /assets/images/logos/crowdlabs_logo.png
+logo: /images/logos/crowdlabs_logo.png
 featuredImage: /images/crowdlabs.png
 featuredPreviewImage: /images/crowdlabs.png
 ---
