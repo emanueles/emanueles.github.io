@@ -1,4 +1,4 @@
-baseURL = 'https://emanueles.github.io/new_website'
+baseURL = 'https://emanueles.github.io/'
 languageCode = 'en-us'
 languageName = "English"
 
@@ -307,7 +307,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # {{< version 0.2.0 >}} Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
       id = "G-RCVSKCG9EC"
