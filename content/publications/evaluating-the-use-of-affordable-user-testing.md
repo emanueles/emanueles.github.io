@@ -14,7 +14,7 @@ featuredPreviewImage:  /images/thumbs/bastos_sbgames_2019.png
 bibtex: /citations/bastos_sbgames_2019.bib
 ---
 
-*Arthur Silva Bastos, Emanuele Santos, George Allan Menezes Gomes and Marcos Arruda Mourão. In: XVIII SBGames - Art & Design Track, Rio de Janeiro, 2019, p. 145-154.
+*Arthur Silva Bastos, Emanuele Santos, George Allan Menezes Gomes and Marcos Arruda Mourão. In: XVIII SBGames - Art & Design Track, Rio de Janeiro, 2019, p. 145-154.*
 
 {{< image src="/images/thumbs/bastos_sbgames_2019.png" width="80%" height="80%">}}
 
