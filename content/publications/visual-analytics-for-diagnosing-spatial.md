@@ -7,14 +7,14 @@ description:
 tags: []
 pub: true
 authors: André de Oliveira Bastos, Emanuele Santos, Darniton Viana, Luciano Barbosa
-in: "Transactions in GIS, online"
+in: "Transactions in GIS, 27, 364-387"
 file: https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.13028
 featuredImage:  /images/thumbs/s-vidia.png
 featuredPreviewImage:  /images/thumbs/s-vidia.png
 bibtex: /citations/oliveira_bastos2023.bib
 ---
 
-*André de Oliveira Bastos, Emanuele Santos, Darniton Viana, Luciano Barbosa (2023). Transactions in GIS, online.*
+*André de Oliveira Bastos, Emanuele Santos, Darniton Viana, Luciano Barbosa (2023). Transactions in GIS, 27, 364-387.*
 
 {{< image src="/images/thumbs/s-vidia.png" width="80%" height="80%">}}
 
