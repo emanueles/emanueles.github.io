@@ -13,7 +13,7 @@ author: "Emanuele Santos"
 ## MSc
  * Eduardo Melo
  * Everson Magalhães
- * Carolina Herbster
+ * Bruna Neves (co-advisor)
  
 
 # Former Students

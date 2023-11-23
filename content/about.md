@@ -12,6 +12,8 @@ I am an Associate Professor in the [Department of Computer Science](http://porta
         
 My research interests include data visualization and data science.
 
+I was the Chief Scientist of Public Safety of the State Government of Ceará from 2020 to 2022. The [Chief Scientist](https://www.funcap.ce.gov.br/programas-de-auxilio/cientista-chefe-geral/) is a great program run by [Funcap](https://www.funcap.ce.gov.br/) to unite the scientists in the universities with strategic organs in the State government. 
+
 I’ve got a PhD in Computing at the [University of Utah](http://www.utah.edu), in 2010. Previously, I’ve got a B.S and an M.S degree in Computer Science from Universidade Federal do Ceará, in Brazil.
 
 I was one of the main developers of [VisTrails](http://www.vistrails.org) and [crowdLabs](http://www.crowdlabs.org).
