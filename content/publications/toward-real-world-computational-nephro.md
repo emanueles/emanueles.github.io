@@ -16,7 +16,7 @@ bibtex: /citations/oliveira2023_cjasn.bib
 
 *Rodrigo T. Calumby, Angelo Duarte, Michele Angelo, Emanuele Santos, Pinaki Sarder, Washington L.C. dos Santos, Luciano R. Oliveira (2023). In: Clinical Journal of the American Society of Nephrology 18(6):p 809-812, June 2023.*
 
-{{< image src="/images/thumbs/cjasn2023.png" width="100%" height="100%">}}
+{{< image src="/images/thumbs/cjasn2023.png" width="70%" height="70%">}}
 
 
 [Full paper](https://journals.lww.com/cjasn/fulltext/2023/06000/toward_real_world_computational_nephropathology.19.aspx)
