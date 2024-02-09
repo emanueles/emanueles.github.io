@@ -8,12 +8,12 @@ author: "Emanuele Santos"
 # Current Students
 
 ## PhD
- 
+ * Raif Carneiro Gomes
 
 ## MSc
+ * Bruna Neves de Oliveira
  * Eduardo Melo
  * Everson Magalhães
- * Bruna Neves (co-advisor)
  
 
 # Former Students
