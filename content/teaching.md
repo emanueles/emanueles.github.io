@@ -8,6 +8,6 @@ author: "Emanuele Santos"
 
 # Courses (in Portuguese)
 
-* [Visualização de Dados](/datavis-course/)
+* [Visualização de Dados - alguns vídeos no YouTube](https://www.youtube.com/playlist?list=PLomBG50UAP0mPI_8F43pf6v-4pw2Jtaoi)
 
-* [Cálculo Numérico (curso completo no YouTube)](https://www.youtube.com/watch?v=wFUdTZukl7U&list=PLomBG50UAP0m9ukqkap2GqlPXOBUq8FaL)
+* [Cálculo Numérico (curso completo no YouTube)](https://www.youtube.com/playlist?list=PLomBG50UAP0m9ukqkap2GqlPXOBUq8FaL)
