@@ -10,7 +10,7 @@ featuredImage: "images/profile.jpg"
 
 I am an Associate Professor in the [Department of Computer Science](http://portal.dc.ufc.br/) at the [Universidade Federal do Ceará](http://www.ufc.br), in Brazil. In 2024, I am in [Inria](https://www.inria.fr/en/inria-saclay-centre) at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), France, with the [Aviz](https://aviz.fr/) group for a sabbatical.
 
-I usually teach a [Data Visualization course](https://www.youtube.com/playlist?list=PLomBG50UAP0mPI_8F43pf6v-4pw2Jtaoi) for undergraduate and graduate students and a [Numerical Methods course]((https://www.youtube.com/playlist?list=PLomBG50UAP0m9ukqkap2GqlPXOBUq8FaL) for undergraduate students only.
+I usually teach a [Data Visualization course](https://www.youtube.com/playlist?list=PLomBG50UAP0mPI_8F43pf6v-4pw2Jtaoi) for undergraduate and graduate students and a [Numerical Methods course](https://www.youtube.com/playlist?list=PLomBG50UAP0m9ukqkap2GqlPXOBUq8FaL) for undergraduate students only.
         
 My research interests include data visualization and data science.
 

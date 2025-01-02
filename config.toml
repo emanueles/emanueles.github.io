@@ -7,8 +7,6 @@ theme = "LoveIt"
 
 title = 'Emanuele Santos'
 
-# default amount of posts in each pages
-paginate = 12
 # google analytics code [UA-XXXXXXXX-X]
 googleAnalytics = ""
 
@@ -21,12 +19,6 @@ enableEmoji = true
 
 # ignore some build errors
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
-
-# Author config
-[author]
-  name = "Emanuele Santos"
-  email = "emanuele@dc.ufc.br"
-  link = ""
 
 # Menu config
 [menu]
@@ -106,6 +98,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   description = "Emanuele's website"
   # website images for Open Graph and Twitter Cards
   images = ["/images/profile.jpg"]
+
+  # Author config
+  [author]
+    name = "Emanuele Santos"
+    email = "emanuele@dc.ufc.br"
+    link = ""
   
   # Header config
   [params.header]
@@ -221,7 +219,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.home.posts]
       enable = false
       # special amount of posts in each home posts page
-      paginate = 6
+      [pagination]
+        pagerSize = 6
       # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
       # default behavior when you don't set "hiddenFromHomePage" in front matter
       defaultHiddenFromHomePage = false
