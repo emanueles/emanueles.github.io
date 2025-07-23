@@ -8,11 +8,13 @@ featuredImage: "images/profile.jpg"
 {{< image src="/images/profile.jpg" height="300" >}}
 
 
-I am an Associate Professor in the [Department of Computer Science](http://portal.dc.ufc.br/) at the [Universidade Federal do Ceará](http://www.ufc.br), in Brazil. In 2024, I am in [Inria](https://www.inria.fr/en/inria-saclay-centre) at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), France, with the [Aviz](https://aviz.fr/) group for a sabbatical.
+I am an Associate Professor in the [Department of Computer Science](http://portal.dc.ufc.br/) at the [Universidade Federal do Ceará](http://www.ufc.br), in Brazil. 
 
-I usually teach a [Data Visualization course](https://www.youtube.com/playlist?list=PLomBG50UAP0mPI_8F43pf6v-4pw2Jtaoi) for undergraduate and graduate students and a [Numerical Methods course](https://www.youtube.com/playlist?list=PLomBG50UAP0m9ukqkap2GqlPXOBUq8FaL) for undergraduate students only.
+I usually teach a [Data Visualization course](https://www.youtube.com/playlist?list=PLomBG50UAP0mPI_8F43pf6v-4pw2Jtaoi) for undergraduate and graduate students and a [Numerical Methods course](https://www.youtube.com/playlist?list=PLomBG50UAP0m9ukqkap2GqlPXOBUq8FaL) for undergraduate students only. Recently, I started teaching an Introductory class on Science Communication for undergraduate students.
         
 My research interests include data visualization and data science.
+
+In 2024, I was in [Inria](https://www.inria.fr/en/inria-saclay-centre) at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), France, with the [Aviz](https://aviz.fr/) group for a sabbatical.
 
 I was the Chief Scientist of Public Safety of the State Government of Ceará from 2020 to 2022. The [Chief Scientist](https://www.funcap.ce.gov.br/programas-de-auxilio/cientista-chefe-geral/) is a great program run by [Funcap](https://www.funcap.ce.gov.br/) to unite the scientists in the universities with strategic organs in the State government. 
 
